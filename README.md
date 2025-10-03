@@ -5,9 +5,9 @@
 
 ### 🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Always+learning+new+technologies;Open+to+collaboration!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;%7C+React+%7C;Always+learning+new+technologies;Open+to+collaboration!" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Ajeet-kumar-07&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=tusharpaik123&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
 
 </div>
 
@@ -25,7 +25,6 @@ const Ajeet = {
         backEnd: ["Express.js", "Node.js"],
         databases: ["MySQL", "MongoDb",],
         tools: ["Git", "Postman"],
-        Systems: ["Asml" , "Linux" , "Unix" , "Bash" ]
     },
     currentFocus: "Building scalable web applications",
     challenge: "Contributing more to open source projects",
@@ -36,8 +35,8 @@ const Ajeet = {
 - 👯 I'm looking to collaborate on **Projects based on React,Nextjs,Nodejs**
 - 🏆 Goal: **Contribute more to open-source projects.**
 - 💬 Ask me about **Backend Development, DSA, Mern Full Stack Development **
-- 📫 How to reach me: **jatwarajeet3@gmail.com**
-- 🌱 Portfolio: **https://ajeetkumar1.netlify.app/**
+- 📫 How to reach me: 
+- 🌱 Portfolio: 
 - ⚡ **Would love to connect with like-minded people.**
 
 ---
@@ -73,7 +72,6 @@ const Ajeet = {
 
 ### **Backend Development**
 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
@@ -84,10 +82,6 @@ const Ajeet = {
 ### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-### **Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
 
 
 ---
@@ -96,11 +90,11 @@ const Ajeet = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajeet-kumar-07&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajeet-kumar-07&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tusharpaik123&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharpaik123&theme=radical&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeet-kumar-07&layout=compact&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajeet-kumar-07&theme=radical" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpaik123&layout=compact&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusharpaik123&theme=radical" />
 
 </div>
 
@@ -121,7 +115,7 @@ const Ajeet = {
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajeet-kumar-07&custom_title=Ajeet's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00d9ff&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharpaik123&custom_title=Ajeet's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00d9ff&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </div>
 
